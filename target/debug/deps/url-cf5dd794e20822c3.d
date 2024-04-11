@@ -1,0 +1,11 @@
+C:\Users\kaushikraj\Desktop\socket\target\debug\deps\liburl-cf5dd794e20822c3.rmeta: C:\Users\kaushikraj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\lib.rs C:\Users\kaushikraj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\host.rs C:\Users\kaushikraj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\origin.rs C:\Users\kaushikraj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\parser.rs C:\Users\kaushikraj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\path_segments.rs C:\Users\kaushikraj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\slicing.rs C:\Users\kaushikraj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\quirks.rs
+
+C:\Users\kaushikraj\Desktop\socket\target\debug\deps\url-cf5dd794e20822c3.d: C:\Users\kaushikraj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\lib.rs C:\Users\kaushikraj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\host.rs C:\Users\kaushikraj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\origin.rs C:\Users\kaushikraj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\parser.rs C:\Users\kaushikraj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\path_segments.rs C:\Users\kaushikraj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\slicing.rs C:\Users\kaushikraj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\quirks.rs
+
+C:\Users\kaushikraj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\lib.rs:
+C:\Users\kaushikraj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\host.rs:
+C:\Users\kaushikraj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\origin.rs:
+C:\Users\kaushikraj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\parser.rs:
+C:\Users\kaushikraj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\path_segments.rs:
+C:\Users\kaushikraj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\slicing.rs:
+C:\Users\kaushikraj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\quirks.rs:
